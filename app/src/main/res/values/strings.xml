@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tugas_1</string>
+    <string name="total">total</string>
+    <string name="Order">PESAN</string>
+    <string name="Price">Price </string>
+    <string name="quantity">Quantity    : </string>
+    <string name="Chocolate">Chocolate</string>
+    <string name="Whipped_Cream">Whipped Cream</string>
+    <string name="Toppings">Topping</string>
+    <string name="ChocoChip">ChocoChip</string>
+    <string name="marsmellow">Marshmello</string>
+</resources>
